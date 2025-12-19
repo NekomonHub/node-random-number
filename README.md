@@ -14,5 +14,8 @@ Tools ini digunakan untuk membuat nomor WhatsApp secara Random,
 - Javascript - Bahasa Pemrograman
 - Node.js    - Runtime Javascript
 
+## Credit 
 ***@NekomonHub***
-*© Xyzendev 2025 / 2026*
+<p>
+© Xyzendev 2025 / 2026
+</p>
