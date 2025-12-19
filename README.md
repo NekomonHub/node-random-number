@@ -24,6 +24,7 @@ npm start
 ```bash
 node main.js
 ```
+
 # Legalitas Penggunaan 
 - dilarang menjual/belikan tools ini karena tools ini gratis
 - dilarang merename/recode tools ini tanpa izin!
