@@ -20,7 +20,7 @@ npm install
 ```bash
 npm start
 ```
-<p>or</p>
+**Atau juga memakai**
 ```bash
 node main.js
 ```
